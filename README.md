@@ -20,7 +20,7 @@ https://todo-app-rishvant.vercel.app
 git clone https://github.com/rishvant/Todo-App.git
 ```
 
-### Enter the 'Calculator-using-React.js' directory
+### Enter the 'Todo-App' directory
 
 ```sh
 cd Todo-App
